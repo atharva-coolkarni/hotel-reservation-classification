@@ -1,0 +1,8 @@
+2025-06-28 17:35:31,197 - INFO - Successfully read YAML file: config/config.yaml
+2025-06-28 17:35:31,198 - INFO - DataIngestion initialized with file path: dataset/Hotel Reservations.csv
+2025-06-28 17:35:31,198 - INFO - Starting data ingestion process
+2025-06-28 17:35:31,198 - INFO - Loading dataset from dataset/Hotel Reservations.csv
+2025-06-28 17:35:31,263 - INFO - Dataset loaded successfully from dataset/Hotel Reservations.csv
+2025-06-28 17:35:31,274 - INFO - Data split into training and testing sets with ratio: 0.8
+2025-06-28 17:35:31,390 - INFO - Training data saved to artifacts/raw\train.csv and testing data saved to artifacts/raw\test.csv
+2025-06-28 17:35:31,392 - INFO - Data ingestion process completed successfully

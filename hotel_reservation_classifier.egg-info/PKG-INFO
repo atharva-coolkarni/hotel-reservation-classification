@@ -2,4 +2,9 @@ Metadata-Version: 2.4
 Name: hotel-reservation-classifier
 Version: 0.1
 Author: Atharva
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: yaml
 Dynamic: author
+Dynamic: requires-dist

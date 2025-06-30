@@ -7,6 +7,9 @@ Requires-Dist: numpy
 Requires-Dist: scikit-learn
 Requires-Dist: PyYAML
 Requires-Dist: setuptools
-Requires-Dist: torch
+Requires-Dist: statsmodels
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: imbalanced-learn
 Dynamic: author
 Dynamic: requires-dist

@@ -3,4 +3,7 @@ numpy
 scikit-learn
 PyYAML
 setuptools
-torch
+statsmodels
+matplotlib
+seaborn
+imbalanced-learn

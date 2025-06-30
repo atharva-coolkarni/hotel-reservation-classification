@@ -3,4 +3,7 @@ numpy
 scikit-learn
 PyYAML
 setuptools
-tensorflow
+statsmodels
+matplotlib
+seaborn
+imbalanced-learn
